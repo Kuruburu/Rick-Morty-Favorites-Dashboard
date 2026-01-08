@@ -34,10 +34,17 @@ NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY=[INSERT SUPABASE PROJECT API PUBLISHABLE OR
 
 Both `NEXT_PUBLIC_SUPABASE_URL` and `NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY` can be found in [your Supabase project's API settings](https://supabase.com/dashboard/project/_?showConnect=true)
 
-2. You can now run the Next.js local development server:
+3. You can now run the Next.js local development server:
 
    ```bash
    npm run dev
    ```
 
    The starter kit should now be running on [localhost:3000](http://localhost:3000/).
+
+## Technical difficulties and decisions
+
+Well there's too much to say about decisions and I would spend another day explaining them.
+I would happily talk about them though.
+
+side note: I am late with assignment as i kinda binge watched the given series lmao
